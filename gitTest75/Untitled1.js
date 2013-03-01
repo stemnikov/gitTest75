@@ -1,1 +1,1 @@
-﻿var studio=true;
+﻿var stub=true;
